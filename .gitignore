@@ -1,3 +1,14 @@
-__pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales de Python
+.venv/
+env/
+venv/
+ENV/
+
+# Variables de entorno y configuración local
 .env
 .learn
+.ipynb_checkpoints/
